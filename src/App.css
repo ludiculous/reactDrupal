@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -17,6 +18,32 @@
 .App-intro {
   font-size: large;
 }
+
+.graphArea{
+  height: 100vh;
+}
+
+tspan {
+    font-family: helvetica;
+    font-size: 11px;
+}
+
+
+
+/*
+
+background hovershadow
+
+
+background: linear-gradient(
+  to bottom,
+  #5d9634,
+  #5d9634 50%,
+  #538c2b 50%,
+  #538c2b
+);
+*/
+
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
